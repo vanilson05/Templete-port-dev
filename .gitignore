@@ -1,0 +1,3 @@
+# Ignorar arquivos CSS e HTML
+*.style.css
+*.index.html
